@@ -11,4 +11,5 @@ akakak  master test
 akakak
 akakak
 akakakmaster test
+akakakfix-hot test
 akakak   hot-fix.tea
